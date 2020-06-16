@@ -1,38 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDOG</title>
-    <link>https://dutch-dog.github.io/</link>
+    <link>//dutch-dog.github.io/</link>
     <description>Recent content on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Jun 2020 11:33:37 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 19:28:02 +0200</lastBuildDate>
     
-        <atom:link href="https://dutch-dog.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//dutch-dog.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Quotes</title>
-      <link>https://dutch-dog.github.io/quote/</link>
-      <pubDate>Tue, 16 Jun 2020 11:33:37 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/quote/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Articles</title>
-      <link>https://dutch-dog.github.io/article/</link>
-      <pubDate>Sat, 13 Jun 2020 17:10:55 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/article/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Links</title>
-      <link>https://dutch-dog.github.io/link/</link>
+      <link>//dutch-dog.github.io/link/</link>
       <pubDate>Sat, 13 Jun 2020 16:48:47 +0200</pubDate>
       
-      <guid>https://dutch-dog.github.io/link/</guid>
+      <guid>//dutch-dog.github.io/link/</guid>
       <description></description>
     </item>
     

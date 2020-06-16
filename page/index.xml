@@ -2,30 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on DDOG</title>
-    <link>https://dutch-dog.github.io/page/</link>
+    <link>//dutch-dog.github.io/page/</link>
     <description>Recent content in Pages on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 13:18:45 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 19:28:02 +0200</lastBuildDate>
     
-	<atom:link href="https://dutch-dog.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dutch-dog.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About us</title>
-      <link>https://dutch-dog.github.io/page/about-bilberry/</link>
+      <title>EventBrite</title>
+      <link>//dutch-dog.github.io/page/eventbrite/</link>
+      <pubDate>Tue, 16 Jun 2020 19:28:02 +0200</pubDate>
+      
+      <guid>//dutch-dog.github.io/page/eventbrite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>//dutch-dog.github.io/page/about/</link>
       <pubDate>Wed, 01 Nov 2017 13:18:45 +0100</pubDate>
       
-      <guid>https://dutch-dog.github.io/page/about-bilberry/</guid>
-      <description>😁🚲🚇🎨🥠
-Write-Output &amp;#34;Hello World&amp;#34; </description>
+      <guid>//dutch-dog.github.io/page/about/</guid>
+      <description>WIP 🐩🐶🐕🐕‍🦺</description>
     </item>
     
     <item>
       <title>Github</title>
-      <link>https://dutch-dog.github.io/page/github/</link>
+      <link>//dutch-dog.github.io/page/github/</link>
       <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
       
-      <guid>https://dutch-dog.github.io/page/github/</guid>
+      <guid>//dutch-dog.github.io/page/github/</guid>
       <description></description>
     </item>
     

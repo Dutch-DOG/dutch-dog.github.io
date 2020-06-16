@@ -2,38 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on DDOG</title>
-    <link>https://dutch-dog.github.io/categories/</link>
+    <link>//dutch-dog.github.io/categories/</link>
     <description>Recent content in Categories on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Jun 2020 17:10:55 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 16:48:47 +0200</lastBuildDate>
     
-	<atom:link href="https://dutch-dog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dutch-dog.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>voorbeeld</title>
-      <link>https://dutch-dog.github.io/categories/voorbeeld/</link>
-      <pubDate>Sat, 13 Jun 2020 17:10:55 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/categories/voorbeeld/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quotes</title>
-      <link>https://dutch-dog.github.io/categories/quotes/</link>
-      <pubDate>Sat, 13 Jun 2020 17:00:58 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/categories/quotes/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Events</title>
-      <link>https://dutch-dog.github.io/categories/events/</link>
+      <link>//dutch-dog.github.io/categories/events/</link>
       <pubDate>Sat, 13 Jun 2020 16:48:47 +0200</pubDate>
       
-      <guid>https://dutch-dog.github.io/categories/events/</guid>
+      <guid>//dutch-dog.github.io/categories/events/</guid>
       <description></description>
     </item>
     

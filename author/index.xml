@@ -2,31 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on DDOG</title>
-    <link>https://dutch-dog.github.io/author/</link>
+    <link>//dutch-dog.github.io/author/</link>
     <description>Recent content in Author on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Jun 2020 11:33:37 +0200</lastBuildDate>
     
-	<atom:link href="https://dutch-dog.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//dutch-dog.github.io/author/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Barbara Forbes</title>
-      <link>https://dutch-dog.github.io/author/barbara-forbes/</link>
-      <pubDate>Tue, 16 Jun 2020 11:33:37 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/author/barbara-forbes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jeffrey Snover</title>
-      <link>https://dutch-dog.github.io/author/jeffrey-snover/</link>
-      <pubDate>Sat, 13 Jun 2020 17:00:58 +0200</pubDate>
-      
-      <guid>https://dutch-dog.github.io/author/jeffrey-snover/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
