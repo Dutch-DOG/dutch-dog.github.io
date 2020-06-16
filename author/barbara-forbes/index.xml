@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Forbes on DDOG</title>
+    <link>https://dutch-dog.github.io/author/barbara-forbes/</link>
+    <description>Recent content in Barbara Forbes on DDOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 16 Jun 2020 11:33:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://dutch-dog.github.io/author/barbara-forbes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://dutch-dog.github.io/quote/test/</link>
+      <pubDate>Tue, 16 Jun 2020 11:33:37 +0200</pubDate>
+      
+      <guid>https://dutch-dog.github.io/quote/test/</guid>
+      <description>Kijken wat hij doet 🐶🐕🐩🐕‍🦺</description>
+    </item>
+    
+  </channel>
+</rss>
