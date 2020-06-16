@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://dutch-dog.github.io/article/</loc>
+    <lastmod>2020-06-13T17:10:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/categories/</loc>
+    <lastmod>2020-06-13T17:10:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/</loc>
+    <lastmod>2020-06-13T17:10:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/article/lorem-ipsum/</loc>
+    <lastmod>2020-06-13T17:10:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/categories/voorbeeld/</loc>
+    <lastmod>2020-06-13T17:10:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/author/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/author/jeffrey-snover/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/quote/jeffrey/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/tags/quote/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/categories/quotes/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/quote/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/tags/</loc>
+    <lastmod>2020-06-13T17:00:58+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/link/link02/</loc>
+    <lastmod>2020-06-13T16:48:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/link/</loc>
+    <lastmod>2020-06-13T16:48:47+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/page/about-bilberry/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/page/</loc>
+    <lastmod>2017-11-01T13:18:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dutch-dog.github.io/page/github/</loc>
+    <lastmod>2017-11-01T13:17:56+01:00</lastmod>
+  </url>
+  
+</urlset>

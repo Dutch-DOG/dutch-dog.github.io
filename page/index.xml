@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on DDOG</title>
+    <link>https://dutch-dog.github.io/page/</link>
+    <description>Recent content in Pages on DDOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Nov 2017 13:18:45 +0100</lastBuildDate>
+    
+	<atom:link href="https://dutch-dog.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About us</title>
+      <link>https://dutch-dog.github.io/page/about-bilberry/</link>
+      <pubDate>Wed, 01 Nov 2017 13:18:45 +0100</pubDate>
+      
+      <guid>https://dutch-dog.github.io/page/about-bilberry/</guid>
+      <description>😁🚲🚇🎨🥠
+Write-Output &amp;#34;Hello World&amp;#34; </description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://dutch-dog.github.io/page/github/</link>
+      <pubDate>Wed, 01 Nov 2017 13:17:56 +0100</pubDate>
+      
+      <guid>https://dutch-dog.github.io/page/github/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
