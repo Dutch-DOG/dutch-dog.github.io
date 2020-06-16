@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on DDOG</title>
-    <link>//dutch-dog.github.io/author/</link>
+    <link>//ddog.nl/author/</link>
     <description>Recent content in Author on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="//dutch-dog.github.io/author/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//ddog.nl/author/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

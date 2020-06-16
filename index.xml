@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DDOG</title>
-    <link>//dutch-dog.github.io/</link>
+    <link>//ddog.nl/</link>
     <description>Recent content on DDOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Tue, 16 Jun 2020 19:28:02 +0200</lastBuildDate>
     
-        <atom:link href="//dutch-dog.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="//ddog.nl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Links</title>
-      <link>//dutch-dog.github.io/link/</link>
+      <link>//ddog.nl/link/</link>
       <pubDate>Sat, 13 Jun 2020 16:48:47 +0200</pubDate>
       
-      <guid>//dutch-dog.github.io/link/</guid>
+      <guid>//ddog.nl/link/</guid>
       <description></description>
     </item>
     
