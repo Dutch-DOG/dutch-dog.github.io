@@ -1,3 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Eventbrite link on DDOG</title><link>//ddog.nl/categories/eventbrite-link/</link><description>Recent content in Eventbrite link on DDOG</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 23 Jul 2020 15:22:14 +0200</lastBuildDate><atom:link href="//ddog.nl/categories/eventbrite-link/index.xml" rel="self" type="application/rss+xml"/><item><title>Eventbrite event available</title><link>//ddog.nl/article/20200723eventbrite/</link><pubDate>Thu, 23 Jul 2020 15:22:14 +0200</pubDate><guid>//ddog.nl/article/20200723eventbrite/</guid><description>You can now register for our very first virtual meeting through EventBrite! This isn&amp;rsquo;t mandatory to be part of the event, but you will receive the link to access the meeting through email.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eventbrite link on DDOG</title>
+    <link>//ddog.nl/categories/eventbrite-link/</link>
+    <description>Recent content in Eventbrite link on DDOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 23 Jul 2020 15:22:14 +0200</lastBuildDate>
+    
+	<atom:link href="//ddog.nl/categories/eventbrite-link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eventbrite event available</title>
+      <link>//ddog.nl/article/20200723eventbrite/</link>
+      <pubDate>Thu, 23 Jul 2020 15:22:14 +0200</pubDate>
+      
+      <guid>//ddog.nl/article/20200723eventbrite/</guid>
+      <description>You can now register for our very first virtual meeting through EventBrite! This isn&amp;rsquo;t mandatory to be part of the event, but you will receive the link to access the meeting through email.
 We have some exiting speakers lined up which we will reveal in the coming weeks! Follow this site or our Twitter to be the first to know.
-Event Brite ﻿﻿﻿</description></item></channel></rss>
+Event Brite﻿﻿﻿</description>
+    </item>
+    
+  </channel>
+</rss>
